@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashi Srivastava</h1>
-<h3 align="center">A passionate competitive programmer and a flutter developer who is trying to excel in her field.</h3>
+<h3 align="center">A passionate competitive programmer  , a frontend flutter developer and a Cloud Developer as well , who is trying to excel in her field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugens&label=Profile%20views&color=0e75b6&style=flat" alt="yugens" /> </p>
 
@@ -10,11 +10,11 @@
 
 - 📝 I regulary write articles on [https://auth.geeksforgeeks.org/user/yugens/articles](https://auth.geeksforgeeks.org/user/yugens/articles)
 
-- 💬 Ask me about **problem solving**
+- 💬 Ask me about **problem solving   and  Cloud Development**
 
 - 📫 How to reach me **yugensmail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1abZBv1Ne9xCB8WBQ6ydKRY5YUy3HGjcM/view?usp=sharing](https://drive.google.com/file/d/1abZBv1Ne9xCB8WBQ6ydKRY5YUy3HGjcM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1czE4J0bnJE_M-o7VQiiNqcGGraczJUr_/view?usp=sharing](https://drive.google.com/file/d/1czE4J0bnJE_M-o7VQiiNqcGGraczJUr_/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a sappy romantic type of girl…i’m always wishing things to be like there were in the books/movies. I know it isn’t real life, but hey a girl can dream can’t she!**
 
