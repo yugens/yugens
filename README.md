@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif">
 - 🌱 Currently a Software Development Intern at **Medly Pharmacy**
-- 
+ 
 - 💬 Ask me about **problem solving   and  DevOps**
 
 - 📫 How to reach me **yugensmail@gmail.com**
