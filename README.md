@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yugensmail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1czE4J0bnJE_M-o7VQiiNqcGGraczJUr_/view?usp=sharing](https://drive.google.com/file/d/1czE4J0bnJE_M-o7VQiiNqcGGraczJUr_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1czE4J0bnJE_M-o7VQiiNqcGGraczJUr_/view?usp=sharing](https://drive.google.com/file/d/1XHG6OFO4Y2T7p7tEqLdyi7m7ox3cSMaj/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a sappy romantic type of girl…i’m always wishing things to be like there were in the books/movies. I know it isn’t real life, but hey a girl can dream can’t she!**
 
