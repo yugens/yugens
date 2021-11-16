@@ -6,11 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugens" alt="yugens" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif">
-- 🌱 I’m currently learning **flutter and cloud computing**
-
-- 📝 I regulary write articles on [https://auth.geeksforgeeks.org/user/yugens/articles](https://auth.geeksforgeeks.org/user/yugens/articles)
-
-- 💬 Ask me about **problem solving   and  Cloud Development**
+- 🌱 Currently a Software Development Intern at **Medly Pharmacy**
+- 
+- 💬 Ask me about **problem solving   and  DevOps**
 
 - 📫 How to reach me **yugensmail@gmail.com**
 
