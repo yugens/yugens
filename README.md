@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugens" alt="yugens" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif">
-- 🌱 Currently a Software Development at    **Walmart Global tech India**
+- 🌱 Currently a Software Developer at    **Walmart Global tech India**
  
 - 💬 Ask me about **problem solving   and  DevOps**
 
